@@ -16,3 +16,9 @@ dist_mac_m1.zip
 *.swp
 *.swo
 slim.report.json
+.env
+.env.*
+*.pem
+*.key
+secrets/
+*.token
